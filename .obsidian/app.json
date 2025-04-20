@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1. Notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "z/attachments"
+}

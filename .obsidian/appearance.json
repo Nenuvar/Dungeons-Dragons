@@ -1,0 +1,18 @@
+{
+  "enabledCssSnippets": [
+    "dnd5e-compendium",
+    "dnd5e-float-images",
+    "dnd5e-only-admonitions",
+    "dnd5e-only-statblock",
+    "hide-markdown-link-url",
+    "S - Dataview Cards",
+    "S - Embed Adjustments",
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "S - External Link Icons",
+    "S - Folder Styles Rewritten",
+    "S - Images Adjustments"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone"
+}
