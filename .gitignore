@@ -13,8 +13,8 @@ Thumbs.db
 # ------------------------
 # Obsidian folders to ignore
 # ------------------------
-compendium/
-rules/
+CLI/compendium/
+CLI/rules/
 
 # ------------------------
 # Obsidian UI + device-specific files to ignore
