@@ -1,4 +1,4 @@
-- [x] [[2. Campaigns/Wild Beyond the Witchlight/3. Locations/The Witchlight Carnival/Ticket Booth]]
+- [x] [[z/New Campaign/3. Locations/The Witchlight Carnival/Ticket Booth]]
 - [ ] Lost Property
 - [ ] Calliope
 - [ ] Dragonfly Rides

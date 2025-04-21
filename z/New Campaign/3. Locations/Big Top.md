@@ -1,10 +1,8 @@
+---
+Campaign: Wild Beyond the Witchlight
+Archive: false
+---
 *A grandiose show of spectacular feats and magic, and the crowning of the Witchlight Monarch!*
-## NPCs 
-#NotDone
-*Place cursor on the same line as "Show to Players", then CTRL + W to open image in new window*
-/ |Show to Players]]
-/ |Show to Players]]
-/ |Show to Players]]
 
 ## Big Top
 
@@ -89,7 +87,7 @@ With a successful DC 12 [[rules/skills#Perception|Perception]] check, the charac
 > ![[wbtw-dirlagraun.webp|cover hsmall right]]
 > - **Ride Dirla!**: Characters must attempt to stay mounted on the elusive displacer beast as it leaps and twists. **DC 12**  [[rules/skills#Animal Handling|Animal Handling]] check to maintain balance while riding
 > - **The Dive:** As Dirla makes a daring dive through the air, riders must hold on tightly. **DC 15** [[rules/skills#Athletics|Athletics]] check to avoid being thrown off.
-**Reward:** A shimmering, iridescent scale enchanted with displacement magic. Once per day, the bearer may use this scale to cast [[blur]] for 1 minute. See [[2. Campaigns/Wild Beyond the Witchlight/3. Locations/The Witchlight Carnival/Big Top#Additional Feywild Trinket Rewards|Whispering Leaf]] as an additional award if the PCs remark themselves. 
+**Reward:** A shimmering, iridescent scale enchanted with displacement magic. Once per day, the bearer may use this scale to cast [[blur]] for 1 minute. See [[2. Campaigns/Wild Beyond the Witchlight/3. Locations/Big Top#Additional Feywild Trinket Rewards|Whispering Leaf]] as an additional award if the PCs remark themselves. 
 [[wbtw-dirlagraun.webp|Show to Players]]
 
 #### Palasha the Mermaid
@@ -113,7 +111,7 @@ With a successful DC 12 [[rules/skills#Perception|Perception]] check, the charac
 - **Whispering Leaf:** A leaf that, when held to one's ear, lets the bearer communicate with animals via [[speak-with-animals|Speak with Animals]] once per long rest.
 
 ### Crowning of the Witchlight Monarch  
->[[Map - Big Top Stage]]
+>[[z/New Campaign/4. Maps/Big Top Stage]]
 >[[wbtw-big-top-stage.png|Show to players]]
 
 Most of the carnival's stars have a part to play in the coronation, which celebrates the joyous zeal of a single guest. The event plays out as follows:
@@ -135,8 +133,6 @@ The Witchlight Monarch gains the following charm (see [[08-treasure#Charms|Charm
 > [!charm]  Charm of the Monarch
 > You can sprout a pair of beautiful butterfly wings. As long as you have the wings, you gain a flying speed equal to your walking speed, and you gain a +5 bonus on all Charisma-based ability checks. These effects last for 1 hour. After you use this charm three times, it vanishes from you.
 ^0f6
-##### T~~umblestrum's Intervention~~
-~~If the characters haven't found a way to Prismeer by the end of the evening, Ellywick Tumblestrum (see "Feasting Orchard" earlier in the chapter) comes to their aid. The gnome bard appears next to the characters, exclaiming that it's "high time you folks were elsewhere," and leads them quickly to the Hall of Illusions. She ushers them inside and whispers the following incantation to them: "Hither, thither, here and there; wander yonder, show me where." Using the incantation, the characters can travel to Prismeer (see "Through the Looking Glass" below). If they are being chased, Tumblestrum distracts pursuers with a song before disappearing as mysteriously as she appeared.~~
 
 ### Development 
 #NotDone 
@@ -182,3 +178,6 @@ If [Mister Witch](mister-witch-wbtw.md) and [Mister Light](mister-light-wbtw.md)
 ^0fc
 
 Proceed with chapter 2 once the characters pass through the magic mirror.
+
+#### Show to Players
+*Place cursor on the same line as "Show to Players", then CTRL + W to open image in new window*
