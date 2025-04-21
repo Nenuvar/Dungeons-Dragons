@@ -10,5 +10,8 @@
   "obsidian-kanban",
   "dataview",
   "omnisearch",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "obsidian-view-mode-by-frontmatter",
+  "folder-notes",
+  "obsidian-custom-frames"
 ]

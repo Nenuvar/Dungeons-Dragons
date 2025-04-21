@@ -1,0 +1,18 @@
+- [x] [[Ticket Booth]]
+- [ ] Lost Property
+- [ ] Calliope
+- [ ] Dragonfly Rides
+- [ ] Carousel
+- [ ] Gondola Swans 
+- [ ] Feating Orchard 
+- [ ] [[Big Top]]
+- [ ] Silversong Lake 
+- [ ] Bubble-pop Teapot 
+- [ ] Pixie Kingdom
+- [ ] Mystery Mine 
+- [ ] Snail Racing 
+- [ ] Hall of Illusions 
+- [ ] Staff Area 
+- [ ] Welcome Gifts 
+- [ ] Big Top Extravaganza
+- [ ] Crowning the Witchlight Monarch 

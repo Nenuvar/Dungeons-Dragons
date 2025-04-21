@@ -1,0 +1,6 @@
+---
+Campaign: 
+aliases: 
+Archive: 
+tags:
+---
