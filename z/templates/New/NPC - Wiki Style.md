@@ -1,14 +1,18 @@
 ---
 obsidianUIMode: preview
-AssociatedGroup: 
+Organisation: organisation
 Gender: 
-Race: 
-Age: 
-Class: 
-Alignment: 
-Character-Role: 
-Location: 
+Race: race
+Age: age
+Class: class
+Alignment: alignment
+Character-Role: character-role
+Home: home
 NoteIcon: npc
+Goal: friends
+Trait: Great beard
+Flaw: Selfish
+Connection: Not introduced
 ---
 > [!npc|no-t no-i right color-red background-red] NPC
 > ># `=this.file.name`
@@ -17,12 +21,11 @@ NoteIcon: npc
 >###### Basic Information
 >Type |  Stat |
 >---|---|
->Home | `=this.Location` |
->Group | `=this.AssociatedGroup` |
->Sex | `=this.gender` |
+>Home | `=this.Home` |
+>Organisation | `=this.Organisation` |
+>Gender | `=this.gender` |
 >Race | `=this.race` |
 >Age | `=this.age` |
->Condition | Healthy |
 >###### Rules Info
 >Type |  Stat |
 >---|---|
@@ -31,5 +34,14 @@ NoteIcon: npc
 >Character Role | `=this.character-role` |
 ## Overview
 **Primary Goal |** How does the primary goal influence their interaction with the PCs?
+-  **Goal:** `=this.goal`
+
 **Unique Trait or Flaw:** How will the PCs remember them?
+ -  **Trait:** `=this.trait`
+ -  **Flaw:** `=this.flaw`
+
 **Story Connection:** How will they impact the main story?
+-  **Story Connection:** `=this.connection`
+
+## Other Notes
+<%* tp.file.cursor %>
